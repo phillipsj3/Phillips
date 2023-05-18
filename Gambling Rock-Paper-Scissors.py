@@ -9,11 +9,7 @@ import time
 import sys
 time.sleep(1)
 
-if userName == "Layne":
-    print("Layne's are not ALLOWED to gamble money. Goodbye")
-    quit()
-else:
-    print("Hello", userName + "!")
+print("Hello", userName + "!")
 
 time.sleep(1)
 
